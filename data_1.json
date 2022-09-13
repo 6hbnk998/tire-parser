@@ -1,0 +1,86 @@
+[
+    {
+        "name": "285/40 R23 PIRELLI Scorpion Zero All Season XL 111Y TL PNCS LR",
+        "price": 64520,
+        "url": "https://roscarservis.ru/catalog/legkovye/28540-r23-pirelli-scorpion-zero-all-season-xl-111y-tl-pncs-lr25468/",
+        "img_url": "https://roscarservis.ru/upload/resize_cache/iblock/a83/275_275_1/ittz82aq0btelj8x1diu0ohcazcvfd3n.jpg",
+        "stores": [
+            {
+                "store_name": "Оптовый Склад",
+                "store_price": "64520.00",
+                "store_amount": "8"
+            }
+        ],
+        "total_amount": 8
+    },
+    {
+        "name": "345/30 R20 106(Y) Michelin Pilot Sport 4 S TL",
+        "price": 66200,
+        "url": "https://roscarservis.ru/catalog/legkovye/30345-r20-michelin/",
+        "img_url": "https://roscarservis.ru/upload/resize_cache/iblock/2e4/275_275_1/6dsijszg8d3z2wjhyo11w4gzik5ps0sr.png",
+        "stores": [
+            {
+                "store_name": "Удалённый склад",
+                "store_price": "66200.00",
+                "store_amount": "2"
+            }
+        ],
+        "total_amount": 10
+    },
+    {
+        "name": "285/40Z R22 PIRELLI P Zero XL 110Y TL  B1",
+        "price": 67210,
+        "url": "https://roscarservis.ru/catalog/legkovye/28540z-r22-pirelli-p-zero-xl-110y-tl-b128182/",
+        "img_url": "https://roscarservis.ru/upload/resize_cache/iblock/d7f/275_275_1/u3jrv7csnmmqgwfjwjkcbastms5iofcw.jpg",
+        "stores": [
+            {
+                "store_name": "Оптовый Склад",
+                "store_price": "67210.00",
+                "store_amount": "4"
+            }
+        ],
+        "total_amount": 14
+    },
+    {
+        "name": "315/30 R22 107(Y) Michelin Pilot Sport 4 S TL",
+        "price": 74970,
+        "url": "https://roscarservis.ru/catalog/legkovye/31530z-r22-michelin-pilot-sport-4-s-xl-107y-tl-24209/",
+        "img_url": "https://roscarservis.ru/upload/resize_cache/iblock/543/275_275_1/b1sxvw991tsmf979wf1haspchopk9qhy.png",
+        "stores": [
+            {
+                "store_name": "Удалённый склад",
+                "store_price": "74970.00",
+                "store_amount": "1"
+            }
+        ],
+        "total_amount": 15
+    },
+    {
+        "name": "315/35 R21 111V Pirelli Scorpion Winter TL Run Flat",
+        "price": 77120,
+        "url": "https://roscarservis.ru/catalog/legkovye/31535-r21-pirelli-scorpion-winter-xl-111v-tl-run-flat-85019/",
+        "img_url": "https://roscarservis.ru/upload/resize_cache/iblock/b24/275_275_1/izh5yhv4svncs8qqddv30nkzy32f5eyo.png",
+        "stores": [
+            {
+                "store_name": "Удалённый склад",
+                "store_price": "77120.00",
+                "store_amount": "4"
+            }
+        ],
+        "total_amount": 19
+    },
+    {
+        "name": "275/35 R21 103V Pirelli Winter SottoZero Serie III TL",
+        "price": 86300,
+        "url": "https://roscarservis.ru/catalog/legkovye/35275-r21-pirelli/",
+        "img_url": "https://roscarservis.ru/upload/resize_cache/iblock/bba/275_275_1/6bho2hw264g66je5snuiw8wm3zgohp1f.png",
+        "stores": [
+            {
+                "store_name": "Удалённый склад",
+                "store_price": "86300.00",
+                "store_amount": "1"
+            }
+        ],
+        "total_amount": 20
+    }
+]
