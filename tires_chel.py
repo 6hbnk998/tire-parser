@@ -3,7 +3,7 @@ import requests
 import json
 
 headers ={
-    'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36',
+    'User-Agent': 'your user agent',
     'X-Is-Ajax-Request': 'X-Is-Ajax-Request',
     'X-Requested-With': 'XMLHttpRequest',
     'Accept': 'application/json, text/javascript, */*; q=0.01'
@@ -15,10 +15,10 @@ def get_data():
     url = 'https://skinport.com/ru/market?cat=Knife'
     r = requests.get(url=url, headers=headers)
 
-    # with open('tires_chel.html', 'w') as file:
-    #     file.write(r.text)
-    # with open('tires.json', 'a', encoding='utf-8') as file:
-    #     json.dump(r.json(), file, indent=4 ,ensure_ascii=False)
+    with open('tires_chel.html', 'w') as file:
+        file.write(r.text)
+    with open('tires.json', 'a', encoding='utf-8') as file:
+        json.dump(r.json(), file, indent=4 ,ensure_ascii=False)
 
     pages_count = r.json()['pageCount']
 
